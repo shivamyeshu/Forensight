@@ -64,7 +64,7 @@ The Cyber Triage Tool is designed to streamline digital forensic investigations 
 1. **Navigate to the Frontend Directory:**
 
     ```bash
-    cd D:/SIH/Forensight/Foreignsight/frontend/cyber-triage-tool
+    cd Foreignsight/frontend/cyber-triage-tool
     ```
 
 2. **Install Frontend Dependencies:**
